@@ -1,0 +1,7 @@
+﻿  player.cpp
+c:\users\enpie_000\documents\visual studio 2013\projects\pacman\pacman\player.cpp(5): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\enpie_000\documents\visual studio 2013\projects\pacman\pacman\player.cpp(32): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\enpie_000\documents\visual studio 2013\projects\pacman\pacman\player.cpp(74): warning C4018: '<' : signed/unsigned mismatch
+c:\users\enpie_000\documents\visual studio 2013\projects\pacman\pacman\player.cpp(92): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\enpie_000\documents\visual studio 2013\projects\pacman\pacman\player.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+  Pacman.vcxproj -> C:\Users\enpie_000\documents\visual studio 2013\Projects\Pacman\Debug\Pacman.exe
